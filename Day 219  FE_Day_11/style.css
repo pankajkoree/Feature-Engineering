@@ -1,0 +1,35 @@
+.rain{
+    background-color: red;
+    color:white;
+    margin:5px;
+    padding:3px;
+    border: 1px solid black;
+}
+.nature{
+    background-color: green;
+    color:blue;
+    margin:3px;
+    padding:5px;
+    border: 2px dashed red;
+}
+.animals{
+    background-color: blue;
+    color:gold;
+    margin:10px;
+    padding:3px;
+    border: 2px dotted green;
+}
+.plants{
+    background-color: yellow;
+    color:black;
+    margin:15px;
+    padding:2px;
+    border: 5px solid red;
+}
+.people{
+    background-color: purple;
+    color:white;
+    margin:5px;
+    padding:3px;
+    border: 1px dashed gold;
+}
